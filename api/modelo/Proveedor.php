@@ -1,6 +1,6 @@
 <?php
 
-class $Proveedor {
+class Proveedor {
 
     public $RazonSocial;
     public $Cuit;
